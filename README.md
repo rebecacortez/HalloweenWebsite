@@ -14,3 +14,5 @@ This project was based on the design created and made available via Youtube by *
 - Use of HTML tags
 - Use of classes
 - CSS Flexbox
+
+https://rebecacortez.github.io/HalloweenWebsite/
